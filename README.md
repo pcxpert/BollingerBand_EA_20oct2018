@@ -1,3 +1,3 @@
 # BollingerBand_EA_20oct2018
-# docx file are instructions
+# docx file has instructions
 # indicator folder contains all indicators
